@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+.flex-container-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+/** Counter Section **/
+
+.counter-section {
+  background: #F3F6F9;
+}
+
+.puzzle-splash {
+  max-height: 400px;
+}
+
+.counter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  display: inline-block;
+  position: relative;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: normal;
+}
+
+.counter-subtext {
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: normal;
+  height: 100%;
+  color: #8C8EA3;
+}
+
+/** Leaderboard Section **/
+
+.leaderboard-container {
+
+}
+
+.leaderboard-header {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: normal;
+  color: #4E505A
+}
