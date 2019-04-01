@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/puzzle_pages/static/media/puzzle-splash-right.1f7a742a.png"
   },
   {
-    "revision": "290c300bae8a49841f7031a773f1434e",
+    "revision": "838a98c233194f32097d0fe04535236e",
     "url": "/puzzle_pages/index.html"
   }
 ];
